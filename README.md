@@ -1,7 +1,15 @@
-<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
-<h1 align="center">Hi 👋, I'm Matheesha Sankalpa</h1>
-<h3 align="center">BBA in Management (UG) | BSc in Computing & Software Engineering (UG) | Diploma in Cybersecurity |</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matheeshasankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="matheeshasankalpa" /> </p>
+<h1 align="center">Hi 👋, I'm Matheesha Sankalpa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/matheeshasankalpa"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Java+|+Spring+Boot+|+MERN+Enthusiast;Web+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">I am an undergraduate pursuing degrees in Bsc Software Engineering and Business Administration (BBA) in Management at the University of Ruhuna, combining technical expertise with management skills to create innovative and effective solutions..</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=matheeshasankalpa&label=Profile%20views&color=0e75b6&style=plastic" alt="matheeshasankalpa" /> </p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 <table align="center">
 <tr border="none">
@@ -24,7 +32,14 @@
 </tr>
 </table>
 
----
+---------------------------------------------------------------------------------------------------------------------------
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -47,7 +62,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/matheesha-sankalpa" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Matheesha Sankalpa" height="50" width="50" /></a>
   <a href="https://stackoverflow.com/users/your-stackoverflow-user-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Matheesha Sankalpa" height="50" width="50" /></a>
-  <a href="https://www.instagram.com/matheesha_sankalpa" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Matheesha Sankalpa" height="50" width="50" /></a>
 </p>
 
 ---
