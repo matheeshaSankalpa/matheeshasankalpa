@@ -36,7 +36,7 @@
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/matheeshasankalpa/matheeshasankalpa/main/resources/img/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake" />
+    alt="example" />
 </p>
 
 
