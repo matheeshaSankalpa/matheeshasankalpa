@@ -3,13 +3,13 @@
   <a href="https://github.com/matheeshasankalpa"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Java+|+Spring+Boot+|+MERN+Enthusiast;Web+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am an undergraduate pursuing degrees in Bsc Software Engineering and Business Administration (BBA) in Management at the University of Ruhuna, combining technical expertise with management skills to create innovative and effective solutions..</h4>
+<h4 align="center">I am an undergraduate pursuing degrees in BSc Software Engineering and Business Administration (BBA) in Management at the University of Ruhuna, combining technical expertise with management skills to create innovative and effective solutions.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matheeshasankalpa&label=Profile%20views&color=0e75b6&style=plastic" alt="matheeshasankalpa" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=matheeshasankalpa&label=Profile%20views&color=0e75b6&style=plastic" alt="matheeshasankalpa" /> 
+</p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+---
 
 <table align="center">
 <tr border="none">
@@ -18,13 +18,13 @@
 - 🌱 I’m currently learning **Java**, **Spring Boot**, and **MERN**
   
 - 🧑‍🎓 I’m an Undergraduate at **University of Ruhuna**
-- 🧑‍🎓 I’m an Undergraduate at **Cardif Metropolitan University** 
+- 🧑‍🎓 I’m an Undergraduate at **Cardiff Metropolitan University**
 
 - 💬 Ask me about **Java**
 
-- 📫 Follow me on linkedin
+- 📫 Follow me on [LinkedIn](https://www.linkedin.com/in/matheesha-sankalpa/)
 
-- ⚡ Fun fact **Call me Matheesha!**
+- ⚡ Fun fact: **Call me Matheesha!**
 </td>
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
@@ -32,15 +32,13 @@
 </tr>
 </table>
 
----------------------------------------------------------------------------------------------------------------------------
+---
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/matheeshasankalpa/matheeshasankalpa/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/matheeshasankalpa/matheeshasankalpa/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-
----------------------------------------------------------------------------------------------------------------------------
+---
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -52,7 +50,7 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheesha streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshasankalpa&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=matheeshasankalpa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshasankalpa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -83,3 +81,4 @@
 </p>
 
 ---
+
