@@ -33,13 +33,6 @@
 </table>
 
 ---------------------------------------------------------------------------------------------------------------------------
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/matheeshasankalpa/matheeshasankalpa/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-
 ---------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">My Statistics:</h3>
